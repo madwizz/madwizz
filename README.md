@@ -1,9 +1,7 @@
 # Hi!👋
 
-My name is Dmitrii.
-
 ### 🥸  About Me :
-I'm a junior front-end developer. I love vinyl, VR and learning new about web tech.
+My name is Dmitrii. I'm a junior front-end developer. I love vinyl, VR and learning new about web tech.
 
 
 ### 🛠️ Things I work with : 
