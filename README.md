@@ -38,7 +38,7 @@ My name is Dmitrii. I'm a junior front-end developer. I love vinyl, VR and learn
 
 <div align="center">
   
-  
+<div><div/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madwizz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
