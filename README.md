@@ -1,17 +1,8 @@
-<div align="center">
 
 # Hi!👋
 
-<div align="center">
-
-![wave](https://user-images.githubusercontent.com/101938387/216637290-73475d7e-e93e-4a98-bd6d-e78c2f968a2f.gif)
-
-<div align="center">
-
 ### 🥸  About Me :
 My name is Dmitrii. I'm a junior front-end developer. I love vinyl, VR and learning new about web tech.
-
-<div align="center">
 
 ### 🛠️ Things I work with : 
 <div>
@@ -24,8 +15,6 @@ My name is Dmitrii. I'm a junior front-end developer. I love vinyl, VR and learn
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
-
-<div align="center">
 
 ### 📚 Things I'm currently leaning :
 <div>
