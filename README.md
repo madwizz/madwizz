@@ -16,7 +16,7 @@ An energetic web developer merging tech skills with linguistic passion. Eager to
 
 ### 📚 Things I'm currently leaning :
 <div>
-  <img src="https://cdn.coursehunter.net/category/three-js.png" title="Three.js" alt="Three.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.coursehunter.net/category/three-js.png" title="Three.js" alt="Three.js" width="40" height="40" backgroundColor='white'/>&nbsp;
   <img src="https://www.pngitem.com/pimgs/m/452-4529229_babylon-js-hd-png-download.png" title="Babylon.js" alt="babylon.js" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" **alt="NextJs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
