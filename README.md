@@ -1,7 +1,7 @@
 
-# Hi!👋
+# Hi!
 
-### 🥸  About Me :
+### About Me :
 My name is Dmitrii. I'm a miltilingual web developer. I love vinyl, VR, linguistics and learning new about web tech.
 
 ### 🛠️ Things I work with : 
