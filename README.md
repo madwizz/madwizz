@@ -2,7 +2,9 @@
 # Hi!
 
 ### About Me :
-My name is Dmitrii. I'm a miltilingual web developer. I love vinyl, VR, linguistics and learning new about web tech.
+An energetic web developer merging tech skills with linguistic passion. Eager to embrace challenges and cultivate
+professional growth, Actively seeking international job opportunities.
+
 
 ### 🛠️ Things I work with : 
 <div>
