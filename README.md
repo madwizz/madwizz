@@ -2,9 +2,7 @@
 # Hi!
 
 ### About Me :
-An energetic web developer merging tech skills with linguistic passion. Eager to embrace challenges and cultivate
-professional growth, Actively seeking international job opportunities.
-
+An energetic web developer merging tech skills with linguistic passion. Eager to embrace challenges and cultivate professional growth, Actively seeking international job opportunities.
 
 ### 🛠️ Things I work with : 
 <div>
